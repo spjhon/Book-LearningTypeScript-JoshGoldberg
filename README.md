@@ -34,6 +34,8 @@ De aca en adelante se presenta un resumen por capitulos de libro:
 
 ### Chapter 01: Pasando de javascript a typescript
 
+Learning TypeScript's From JavaScript to TypeScript chapter covers the context for some of JavaScript's main weaknesses, where TypeScript comes into play, and how to get started with TypeScrip
+
 Este capiluto hace una pequeña reseña de javascript y como se hace necesario utilizar un control de tipado
 
 TypeScript allows us to specify what types of values may be provided for parameters and variables.
@@ -66,7 +68,7 @@ freedom through restriction, precise documentation, and stronger developer tooli
 
 A remedy for bad code, extensions to JavaScript (mostly), slower than JavaScript, or finished evolving
 
-## Summary
+#### Summary
 
 In this chapter, you read up on the context for some of JavaScript’s main weaknesses,
 where TypeScript comes into play, and how to get started with TypeScript:
@@ -82,3 +84,5 @@ and stronger developer tooling
 on your computer
 • What TypeScript is not: a remedy for bad code, extensions to JavaScript (mostly),
 slower than JavaScript, or finished evolving
+
+### Chapter 02 The Type System
