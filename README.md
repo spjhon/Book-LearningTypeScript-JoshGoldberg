@@ -1,25 +1,10 @@
 <!-- prettier-ignore-start -->
 <!-- markdownlint-disable -->
-<h1 align="center"><em>Learning TypeScript</em> Projects</h1>
 
-<p align="center">Hands-on real world projects that will help you exercise your knowledge of TypeScript.</p>
-
-<p align="center">
-	<img alt="Code Style: Prettier" src="https://img.shields.io/badge/code_style-prettier-14cc21.svg" />
-	<img alt="TypeScript: Strict" src="https://img.shields.io/badge/typescript-strict-14cc21.svg" />
-	<a href="https://github.com/LearningTypeScript/projects/actions/workflows/solutions.yml">
-		<img alt="Build Status: Build Passing" src="https://github.com/LearningTypeScript/projects/actions/workflows/solutions.yml/badge.svg" />
-	</a>
-	<!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
-	<a href="#contributors-">
-  		<img alt="All Contributors" src="https://img.shields.io/badge/all_contributors-2-14cc21.svg" />
-	</a>
-<!-- ALL-CONTRIBUTORS-BADGE:END -->
-</p>
-
-<img align="right" alt="Learning TypeScript title with a sun conure and O'Reilly logo" height="176px" src="./cover-conure.png" width="176px">
 <!-- markdownlint-restore -->
 <!-- prettier-ignore-end -->
+# Learning TypeScript
+
 Welcome to the repository housing all of the projects for _Learning TypeScript_!
 I'm excited you're here -- whether you're using the projects to practice as you read the book, or just browsing.
 
