@@ -1,3 +1,4 @@
+<!-- markdownlint-disable -->
 <h1 align="center"><em>Learning TypeScript</em> Projects</h1>
 
 <p align="center">Hands-on real world projects that will help you exercise your knowledge of TypeScript.</p>
@@ -16,7 +17,7 @@
 </p>
 
 <img align="right" alt="Learning TypeScript title with a sun conure and O'Reilly logo" height="176px" src="./cover-conure.png" width="176px">
-
+<!-- markdownlint-restore -->
 Welcome to the repository housing all of the projects for _Learning TypeScript_!
 I'm excited you're here -- whether you're using the projects to practice as you read the book, or just browsing.
 
@@ -49,11 +50,6 @@ Each project follows a chapter in the Learning TypeScript book and aligns to one
 - 🍲 Entrees: larger, more hands-off challenge: a single self-contained project
 - 🍰 Desserts: the same structure as entrees, with a fun thematic twist
 
-## Contributors ✨
-
-Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/docs/en/emoji-key)):
-
-<!-- ALL-CONTRIBUTORS-LIST:START - Do not remove or modify this section -->
 <!-- prettier-ignore-start -->
 <!-- markdownlint-disable -->
 <table>
