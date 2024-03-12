@@ -16,10 +16,6 @@ Each project follows a chapter in the Learning TypeScript book and aligns to one
 - 🍲 Entrees: larger, more hands-off challenge: a single self-contained project
 - 🍰 Desserts: the same structure as entrees, with a fun thematic twist
 
-<!-- ALL-CONTRIBUTORS-LIST:END -->
-
-This project follows the [all-contributors](https://github.com/all-contributors/all-contributors) specification. Contributions of any kind welcome!
-
 El libro esta distribuido en 3 secciones:
 
 Part I, “Concepts”: How JavaScript came to be, what TypeScript adds to it, and
