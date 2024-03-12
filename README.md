@@ -8,28 +8,7 @@
 Welcome to the repository housing all of the projects for _Learning TypeScript_!
 I'm excited you're here -- whether you're using the projects to practice as you read the book, or just browsing.
 
-## Setup
-
-Clone the repository to your computer, then run `npm install` to install packages.
-
-```shell
-git clone https://github.com/LearningTypeScript/projects learning-typescript-projects
-cd learning-typescript-projects
-npm install
-```
-
-Assuming that all succeeded, you're now ready to work on any and all projects! 🚀
-
-### Starting on Projects
-
-<!-- TODO: switch to the first project they'd ever need to work on -->
-
-Projects are located under the name of their chapter, such as `arrays/analyzing-dna`.
-Each has their own README.md with instructions on the commands to run from within that directory.
-
-> Don't forget to `cd` into a project's directory before running its commands!
-
-### Types of Projects
+## Types of Projects
 
 Each project follows a chapter in the Learning TypeScript book and aligns to one of the following three categories:
 
@@ -55,7 +34,7 @@ reading and editing experience.
 
 De aca en adelante se presenta un resumen por capitulos de libro:
 
-## Concepts
+## Part 01 Concepts
 
 ### Chapter 01: Pasando de javascript a typescript
 
