@@ -86,3 +86,14 @@ on your computer
 slower than JavaScript, or finished evolving
 
 ### Chapter 02 The Type System
+
+The most basic types in TypeScript correspond to the seven basic kinds of primitives
+in JavaScript:
+
+• null
+• undefined
+• boolean // true or false
+• string // "", "Hi!", "abc123",
+• number // 0, 2.1, -4, …
+• bigint // 0n, 2n, -4n, …
+• symbol // Symbol(), Symbol("hi")
