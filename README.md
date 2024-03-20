@@ -87,13 +87,31 @@ slower than JavaScript, or finished evolving
 
 ### Chapter 02 The Type System
 
-The most basic types in TypeScript correspond to the seven basic kinds of primitives
-in JavaScript:
+Summary:
 
-• null
-• undefined
-• boolean // true or false
-• string // "", "Hi!", "abc123",
-• number // 0, 2.1, -4, …
-• bigint // 0n, 2n, -4n, …
-• symbol // Symbol(), Symbol("hi")
+In this chapter, you saw how TypeScript’s type system works at its core:
+• What a “type” is and the primitive types recognized by TypeScript
+• What a “type system” is and how TypeScript’s type system understands code
+• How type errors compare to syntax errors
+• Inferred variable types and variable assignability
+• Type annotations to explicitly declare variable types and avoid evolving any types
+• Object member checking on type shapes
+• ECMAScript module files’ declaration scoping compared to script files
+
+### Chapter 03 Unions and Literals
+
+In this chapter, you went over union and literal types in TypeScript, along with how
+its type system can deduce more specific (narrower) types from how our code is
+structured:
+
+• How union types represent values that could be one of two or more types
+• Explicitly indicating union types with type annotations
+• How type narrowing reduces the possible types of a value
+• The difference between const variables with literal types and let variables with
+primitive types
+• The “billion-dollar mistake” and how TypeScript handles strict null checking
+• Using explicit | undefined to represent values that might not exist
+• Implicit | undefined for unassigned variables
+• Using type aliases to save typing long type unions repeatedly
+
+### Chapter 04 Objects
