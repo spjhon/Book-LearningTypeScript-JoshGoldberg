@@ -115,3 +115,25 @@ primitive types
 • Using type aliases to save typing long type unions repeatedly
 
 ### Chapter 04 Objects
+
+In this chapter, you expanded your grasp of the TypeScript type system to be able to
+work with objects:
+• How TypeScript interprets types from object type literals
+• Describing object literal types, including nested and optional properties
+• Declaring, inferring, and type narrowing with unions of object literal types
+• Discriminated unions and discriminants
+• Combining object types together with intersection types
+
+## Features
+
+### Chapter 05 Functions
+
+In this chapter, you saw how a function’s parameters and return types can be inferred
+or explicitly declared in TypeScript:
+• Declaring function parameter types with type annotations
+• Declaring optional parameters, default values, and rest parameters to change type
+system behavior
+• Declaring function return types with type annotations
+• Describing functions that don’t return a usable value with the void type
+• Describing functions that don’t return at all with the never type
+• Using function overloads to describe varying function call signatures
