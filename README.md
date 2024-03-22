@@ -34,13 +34,11 @@ De aca en adelante se presenta un resumen por capitulos de libro:
 
 ### Chapter 01: Pasando de javascript a typescript
 
-Learning TypeScript's From JavaScript to TypeScript chapter covers the context for some of JavaScript's main weaknesses, where TypeScript comes into play, and how to get started with TypeScrip
-
-Este capiluto hace una pequeña reseña de javascript y como se hace necesario utilizar un control de tipado
+Este capiluto hace una pequeña reseña de javascript y como se hace necesario utilizar un control de tipado.
 
 TypeScript allows us to specify what types of values may be provided for parameters and variables.
 
-You may protest that modern IDEs such as VS Code do provide some development tools such as automated refactors to JavaScript. True, but: they use TypeScript or an equivalent under the hood for many of their JavaScript features, and those development tools are not as reliable or as powerful in most JavaScript code as they are in well-defined TypeScript code.
+TypeScript permite especificar que tipo de types y valores se pueden proveer a parametros en caso de funciones o variables con el fin de siempre tener presente el tipo de data que fluye a travez de variables y funciones.
 
 #### TypeScript is four things
 
