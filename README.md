@@ -58,13 +58,17 @@ equivalent JavaScript code.
 A program that uses the type checker to tell editors such as VS Code how to
 provide helpful utilities to developers.
 
+#### Caractersticas de typescript
+
+Tener en cuenta que gracias al archivo tsconfig.json, la carpeta donde este se encuentre, sera reconocida como un projecto typescript.
+
 #### TypeScript's advantages
 
 freedom through restriction, precise documentation, and stronger developer tooling
 
 #### What TypeScript is not
 
-A remedy for bad code, extensions to JavaScript (mostly), slower than JavaScript, or finished evolving
+A remedy for bad code, extensions to JavaScript (mostly), slower than JavaScript, or finished evolving, typescript puede agregar un pequeno delay al compilar a viejo javascript pero solo si se compila
 
 #### Summary
 
